@@ -1,0 +1,2 @@
+this is main s 1st line
+git add branch one 
