@@ -20,7 +20,13 @@ trying stashin
 
 add new line to check list 3
 
+<<<<<<< Updated upstream
 add new line to check list 3
 
 
 hello hai hahahahahahahahaoiiiaoiojsjn
+=======
+in one try in g stash branching 
+
+jodsfisnfisfjifeifnefefuewfiefuhnwfwrfwjejroiejroiijeworjeoiwj
+>>>>>>> Stashed changes
